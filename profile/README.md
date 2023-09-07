@@ -1,5 +1,5 @@
 # Casava 
-  Put your own AI in the driving seat
+  Advanced Infrastructure Consulting
 
 ## Goals
 
