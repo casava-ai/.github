@@ -2,18 +2,20 @@
   Put your own AI in the driving seat
 
 ## Goals
+
 :cyclone: Build scalable AI applications faster. 
 :shipit: Lower cost, lower latency, more secure. 
 :godmode: Cloud Agnostic
 
-## Features
 
-⏩ instant infrastructure setup and tear-down
-🌂 local or cloud-agnostic
-📈 monitoring dashboard
-🌲 power and memory-efficient application deployment 
-🧑‍🚀 Advanced LLM based virtual operating system
-
+## Features 
+``` 
+⏩ instant infrastructure setup and tear-down 
+🌂 local or cloud-agnostic 
+📈 monitoring dashboard 
+🌲 power and memory-efficient application deployment  
+🧑‍🚀 Advanced LLM based virtual operating system 
+```
 ## Ethos
 
 At Casava, we are determined to bring the latest advancements and best practices of owning your AI infrastructure to as many people as possible.
