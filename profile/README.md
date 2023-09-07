@@ -1,22 +1,19 @@
-# Casava 
-  Advanced Infrastructure Consulting
-
-## Goals
-
-:cyclone: Build scalable AI applications faster. 
-:shipit: Lower cost, lower latency, more secure. 
-:godmode: Cloud Agnostic
 
 
-## Features 
-``` 
+AI Infrastructure Specialists
+
+
+## Expertise 
+```
 ⏩ instant infrastructure setup and tear-down
 👁️‍🗨️ use-case based model selection and tuning
-🌂 local or cloud-agnostic 
-📈 monitoring dashboard 
-🌲 power and memory-efficient application deployment  
-🧑‍🚀 Advanced LLM based virtual operating system 
+🌂 local or cloud-agnostic deployment 
+📈 model monitoring and management 
+🌲 power and memory-efficient inference
+🧑‍🚀 Advanced LLM based application development
 ```
+
+
 
 Enquiries
 ```
