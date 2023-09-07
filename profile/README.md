@@ -11,7 +11,7 @@
 ## Features 
 ``` 
 ⏩ instant infrastructure setup and tear-down
-👁️‍🗨️ use-case optimized model selection
+👁️‍🗨️ use-case based model selection and tuning
 🌂 local or cloud-agnostic 
 📈 monitoring dashboard 
 🌲 power and memory-efficient application deployment  
