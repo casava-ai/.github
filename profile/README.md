@@ -1,10 +1,5 @@
 # Casava 
   Advanced Infrastructure Consulting
-  For enquiries:
-    Krish Davda 
-    Principal Consultant
-    (+44) 77 43192512
-    krishandavda92@gmail.com
 
 ## Goals
 
@@ -21,4 +16,12 @@
 📈 monitoring dashboard 
 🌲 power and memory-efficient application deployment  
 🧑‍🚀 Advanced LLM based virtual operating system 
+```
+
+Enquiries
+```
+Krish Davda 
+Principal Consultant
+(+44) 77 43192512
+krishandavda92@gmail.com
 ```
