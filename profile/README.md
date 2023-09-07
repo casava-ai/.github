@@ -17,7 +17,7 @@ AI Infrastructure Specialists
 
 Enquiries
 ```
-Krish Davda 
+Krishan Davda 
 Principal Consultant
 (+44) 77 43192512
 krishandavda92@gmail.com
