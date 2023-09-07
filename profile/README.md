@@ -10,7 +10,8 @@
 
 ## Features 
 ``` 
-⏩ instant infrastructure setup and tear-down 
+⏩ instant infrastructure setup and tear-down
+👁️‍🗨️ use-case optimized model selection
 🌂 local or cloud-agnostic 
 📈 monitoring dashboard 
 🌲 power and memory-efficient application deployment  
